@@ -1,0 +1,4 @@
+# VOR-FIX Coordinate Calculator Dependencies
+
+# Geodesic calculations
+geographiclib>=2.0
