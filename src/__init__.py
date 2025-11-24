@@ -6,8 +6,8 @@ using geodesic calculations based on VOR/DME/NDB data.
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Justin"
+__email__ = "epa6643@gmail.com"
 __license__ = "MIT"
 
 from src.models import Coordinates, FixInput, FixResult, NavAidEntry, WaypointInput, WaypointResult

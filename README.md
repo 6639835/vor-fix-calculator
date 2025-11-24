@@ -47,7 +47,7 @@ VOR-FIX Calculator is designed for aviation professionals, flight simulation ent
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/vor-fix-calculator.git
+   git clone https://github.com/6639835/vor-fix-calculator.git
    cd vor-fix-calculator
    ```
 
@@ -133,7 +133,7 @@ FIX files should contain:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/vor-fix-calculator.git
+   git clone https://github.com/6639835/vor-fix-calculator.git
    cd vor-fix-calculator
    ```
 
@@ -270,8 +270,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Project Homepage**: https://github.com/yourusername/vor-fix-calculator
-- **Issue Tracker**: https://github.com/yourusername/vor-fix-calculator/issues
+- **Author**: Justin
+- **Email**: epa6643@gmail.com
+- **Project Homepage**: https://github.com/6639835/vor-fix-calculator
+- **Issue Tracker**: https://github.com/6639835/vor-fix-calculator/issues
 
 ## 🗺️ Roadmap
 
